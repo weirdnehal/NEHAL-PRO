@@ -1,5 +1,5 @@
 
-## THIS IS RANDOM CLONING TOOL
+## RANDOM NUMBER CLONING 
 ```python
 
 pkg install python
